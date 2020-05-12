@@ -1,0 +1,8 @@
+.Nav{
+    background: gray;
+    grid-area: nav;
+}
+.item a {
+    color: white;
+    text-decoration: none ;
+}
